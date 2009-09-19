@@ -1,0 +1,11 @@
+merlot:
+  name: Merlot
+  beverage_type: wine
+
+bloody_mary:
+  name: Bloody Mary
+  beverage_type: mixed
+
+lemonade:
+  name: Lemonade
+  beverage_type: sweet

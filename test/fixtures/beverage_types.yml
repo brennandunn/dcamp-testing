@@ -1,0 +1,15 @@
+wine:
+  name: Wine
+  alcoholic: true
+
+beer:
+  name: Beer
+  alcoholic: true
+
+mixed:
+  name: Mixed drink
+  alcoholic: true
+  
+sweet:
+  name: Sweet drink
+  alcoholic: false

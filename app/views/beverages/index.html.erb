@@ -1,0 +1,8 @@
+<% @beverages.each do |beverage| %>
+  <% div_for beverage do %>
+    <h3><%= link_to beverage.name, beverage %></h3>
+  <% end %>
+<% end %>
+
+<br/>
+<%= link_to 'New beverage', new_beverage_path %>

@@ -1,0 +1,2203 @@
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:24:00', NULL, '2009-09-19 14:24:00', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:24:32', NULL, '2009-09-19 14:24:32', 'f', 'yum')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:24:54', NULL, '2009-09-19 14:24:54', 'f', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:25:30', NULL, '2009-09-19 14:25:30', 'f', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:26:01', NULL, '2009-09-19 14:26:01', 'f', 'yum')[0m
+  [4;36;1mBeverage Create (0.6ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:26:05', NULL, '2009-09-19 14:26:05', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:26:06', NULL, '2009-09-19 14:26:06', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:27:32', NULL, '2009-09-19 14:27:32', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:28:02', NULL, '2009-09-19 14:28:02', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:28:02', NULL, '2009-09-19 14:28:02', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.6ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:28:38', NULL, '2009-09-19 14:28:38', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:29:40', NULL, '2009-09-19 14:29:40', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:29:42', NULL, '2009-09-19 14:29:42', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:29:42', NULL, '2009-09-19 14:29:42', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:32:21', NULL, '2009-09-19 14:32:21', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:32:21', NULL, '2009-09-19 14:32:21', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:32:21', NULL, '2009-09-19 14:32:21', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.7ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:33:02', NULL, '2009-09-19 14:33:02', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:34:12', NULL, '2009-09-19 14:34:12', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:34:30', NULL, '2009-09-19 14:34:30', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:35:23', NULL, '2009-09-19 14:35:23', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:35:25', NULL, '2009-09-19 14:35:25', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:35:25', NULL, '2009-09-19 14:35:25', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:35:25', NULL, '2009-09-19 14:35:25', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:35:37', NULL, '2009-09-19 14:35:37', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:35:39', NULL, '2009-09-19 14:35:39', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:35:39', NULL, '2009-09-19 14:35:39', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:35:39', NULL, '2009-09-19 14:35:39', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:37:29', NULL, '2009-09-19 14:37:29', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:37:29', NULL, '2009-09-19 14:37:29', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:37:29', NULL, '2009-09-19 14:37:29', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:38:20', NULL, '2009-09-19 14:38:20', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:38:20', NULL, '2009-09-19 14:38:20', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:38:20', NULL, '2009-09-19 14:38:20', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:38:50', NULL, '2009-09-19 14:38:50', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:38:50', NULL, '2009-09-19 14:38:50', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:38:50', NULL, '2009-09-19 14:38:50', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:39:01', NULL, '2009-09-19 14:39:01', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:39:19', NULL, '2009-09-19 14:39:19', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:39:34', NULL, '2009-09-19 14:39:34', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:39:53', NULL, '2009-09-19 14:39:53', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.8ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:39:55', NULL, '2009-09-19 14:39:55', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:39:55', NULL, '2009-09-19 14:39:55', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:39:55', NULL, '2009-09-19 14:39:55', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:45:02', NULL, '2009-09-19 14:45:02', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:45:02', NULL, '2009-09-19 14:45:02', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:45:02', NULL, '2009-09-19 14:45:02', NULL, 'sweet drink')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:47:39', NULL, '2009-09-19 14:47:39', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:47:39', NULL, '2009-09-19 14:47:39', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:47:39', NULL, '2009-09-19 14:47:39', NULL, 'sweet drink')[0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;36;1mBeverageType Load (0.1ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:48:03', NULL, '2009-09-19 14:48:03', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:48:03', NULL, '2009-09-19 14:48:03', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:48:03', NULL, '2009-09-19 14:48:03', NULL, 'sweet drink')[0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;36;1mBeverageType Load (0.2ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:48:12', NULL, '2009-09-19 14:48:12', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:48:12', NULL, '2009-09-19 14:48:12', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:48:12', NULL, '2009-09-19 14:48:12', NULL, 'sweet drink')[0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;36;1mBeverageType Load (0.1ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:49:20', NULL, '2009-09-19 14:49:20', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:49:20', NULL, '2009-09-19 14:49:20', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:49:20', NULL, '2009-09-19 14:49:20', NULL, 'sweet drink')[0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;36;1mBeverageType Load (0.1ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:50:11', NULL, '2009-09-19 14:50:11', 't', 'yum')[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Bloody Mary', '2009-09-19 14:50:11', NULL, '2009-09-19 14:50:11', 't', 'yum')[0m
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "alcoholic", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:50:11', NULL, '2009-09-19 14:50:11', NULL, 'sweet drink')[0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;36;1mBeverageType Load (0.1ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Create (0.5ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Lemonade', '2009-09-19 14:56:16', NULL, '2009-09-19 14:56:16', 'sweet drink')[0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;36;1mBeverageType Load (0.1ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.5ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:13:17) [GET]
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:13:34) [GET]
+  [4;36;1mBeverage Load (0.5ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:13:50) [GET]
+  [4;36;1mBeverage Load (0.5ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 2) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:15:10) [GET]
+  [4;36;1mBeverage Load (0.5ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 7ms (View: 5, DB: 2) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:15:11) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 3, DB: 3) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.8ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:19:36) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 6ms (View: 4, DB: 4) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:19:36) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:19:54) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:20:15) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 2) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:20:37) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:20:37', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:20:39) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 3, DB: 4) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:20:39) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:20:39', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:22:46) [DELETE]
+  Parameters: {"id"=>"977661844"}
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:22:46) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:22:46) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:22:46', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:23:24) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;36;1mBeverage Delete all (0.4ms)[0m   [0;1mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 2ms (DB: 2) | 302 Found [http://test.host/beverages/977661844]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.5ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:23:26) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;36;1mBeverage Delete all (0.3ms)[0m   [0;1mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 2ms (DB: 5) | 302 Found [http://test.host/beverages/977661844]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:23:26) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:23:26) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Update (0.4ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:23:26', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:25:06) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:25:06) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:25:06) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:25:06) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:25:06', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:25:31) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:25:31', NULL, '2009-09-19 15:25:31', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 60) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (1.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.4ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:25:32) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:25:32', NULL, '2009-09-19 15:25:32', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 4ms (DB: 5) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:25:32) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:25:32) [GET]
+  [4;35;1mBeverage Load (0.6ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:25:32) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:25:32', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:26:14) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:26:14', NULL, '2009-09-19 15:26:14', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:26:14) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:26:14) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:26:14) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:26:14', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:33:40) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:33:40', NULL, '2009-09-19 15:33:40', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:33:40) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:33:40) [GET]
+  [4;35;1mBeverage Load (0.6ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:33:41) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:33:41', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:33:47) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:33:47', NULL, '2009-09-19 15:33:47', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:33:47) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:33:47) [GET]
+  [4;35;1mBeverage Load (0.6ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:33:47) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:33:47', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:35:21) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:35:21', NULL, '2009-09-19 15:35:21', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:35:21) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:35:21) [GET]
+  [4;35;1mBeverage Load (0.8ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:35:21) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:35:21', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:36:00) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:36:00', NULL, '2009-09-19 15:36:00', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:36:00) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:36:00) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:36:00) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.4ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:36:00', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:36:12) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:36:12', NULL, '2009-09-19 15:36:12', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:36:12) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:36:12) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:36:12) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:36:12', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:36:17) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:36:17', NULL, '2009-09-19 15:36:17', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:36:17) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:36:17) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:36:17) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:36:17', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:37:32) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:37:32', NULL, '2009-09-19 15:37:32', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:37:32) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:37:32) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:37:32) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:37:32', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:37:55) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:37:55', NULL, '2009-09-19 15:37:55', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:37:55) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:37:55) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:37:55) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:37:55', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:38:15) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:38:15', NULL, '2009-09-19 15:38:15', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:38:15) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:38:15) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:38:15) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:38:15', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:38:46) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:38:46', NULL, '2009-09-19 15:38:46', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:38:46) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:38:46) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:38:47) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:38:47', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:38:55) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:38:55', NULL, '2009-09-19 15:38:55', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:38:55) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:38:55) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:38:55) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:38:55', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:38:57) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:38:57', NULL, '2009-09-19 15:38:57', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 7ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:38:57) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:38:57) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:38:57) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.4ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:38:57', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:39:25) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:39:25', NULL, '2009-09-19 15:39:25', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:39:25) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:39:25) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:39:25) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:39:25', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:39:30) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:39:30', NULL, '2009-09-19 15:39:30', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:39:30) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:39:30) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:39:30) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.4ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:39:30', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:39:54) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:39:54', NULL, '2009-09-19 15:39:54', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 7ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:39:54) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:39:54) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:39:54) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:39:54', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:40:12) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:40:12', NULL, '2009-09-19 15:40:12', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:40:12) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:40:12) [GET]
+  [4;35;1mBeverage Load (0.6ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:40:12) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:40:12', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:40:26) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:40:26', NULL, '2009-09-19 15:40:26', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:40:26) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:40:26) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:40:26) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:40:26', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:40:34) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:40:34', NULL, '2009-09-19 15:40:34', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:40:34) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.5ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:40:34) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:40:34) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.4ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:40:34', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:41:47) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:41:47', NULL, '2009-09-19 15:41:47', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:41:47) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:41:47) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:41:47) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:41:47', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:42:07) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:42:07', NULL, '2009-09-19 15:42:07', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:42:07) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:42:07) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:42:07) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:42:07', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:43:57) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:43:57', NULL, '2009-09-19 15:43:57', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:43:57) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:43:57) [GET]
+  [4;35;1mBeverage Load (0.6ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:43:57) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:43:57', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:44:11) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:44:11', NULL, '2009-09-19 15:44:11', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:44:11) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:44:11) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:44:11) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:44:11', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:44:44) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:44:44', NULL, '2009-09-19 15:44:44', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:44:44) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:44:44) [GET]
+  [4;35;1mBeverage Load (0.8ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:44:44) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:44:44', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:46:37) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:46:37', NULL, '2009-09-19 15:46:37', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:46:37) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:46:37) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:46:37) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:46:37', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:51:06) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:51:06', NULL, '2009-09-19 15:51:06', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:51:06) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:51:06) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:51:06) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:51:06', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:52:01) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:52:01', NULL, '2009-09-19 15:52:01', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:52:01) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:52:01) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:52:01) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:52:01', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:52:39) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:52:39', NULL, '2009-09-19 15:52:39', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:52:39) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:52:39) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:52:39) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:52:39', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:52:49) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:52:49', NULL, '2009-09-19 15:52:49', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:52:49) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:52:49) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:52:49) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:52:49', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:53:34) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:53:34', NULL, '2009-09-19 15:53:34', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:53:34) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:53:34) [GET]
+  [4;35;1mBeverage Load (0.7ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:53:34) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.4ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:53:34', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:53:43) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:53:43', NULL, '2009-09-19 15:53:43', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:53:43) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:53:43) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:53:43) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:53:43', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:54:28) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:54:28', NULL, '2009-09-19 15:54:28', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:54:28) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:54:28) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:54:29) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:54:29', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:54:46) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:54:46', NULL, '2009-09-19 15:54:46', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:54:46) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:54:46) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (1.5ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:54:46) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:54:46', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 4ms (DB: 2) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:55:21) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:55:21', NULL, '2009-09-19 15:55:21', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 3) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:55:21) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:55:21) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:55:21) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:55:21', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 11:57:39) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.5ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 15:57:39', NULL, '2009-09-19 15:57:39', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 11:57:39) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.4ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 11:57:39) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 11:57:39) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 15:57:39', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:04:56) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 16:04:56', NULL, '2009-09-19 16:04:56', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:04:56) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:04:56', NULL, '2009-09-19 16:04:56', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:04:56) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;36;1mBeverage Delete all (0.3ms)[0m   [0;1mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:04:56) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:04:56) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:04:56', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:05:33) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Create (0.4ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 16:05:33', NULL, '2009-09-19 16:05:33', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:05:33) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;36;1mBeverage Create (0.4ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:05:33', NULL, '2009-09-19 16:05:33', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:05:33) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Create (0.1ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:05:33', NULL, '2009-09-19 16:05:33', NULL)[0m
+Redirected to http://test.host/beverages/2146154059
+Completed in 2ms (DB: 0) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:05:33) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:05:33) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:05:33) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:05:33', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.4ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:06:05) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:06:05', NULL, '2009-09-19 16:06:05', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:06:05) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:06:39) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:06:39', NULL, '2009-09-19 16:06:39', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:06:39) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:09:37) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:09:37', NULL, '2009-09-19 16:09:37', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:09:37) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.8ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:09:38) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'New drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 16:09:38', NULL, '2009-09-19 16:09:38', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 5) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:09:38) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:09:38', NULL, '2009-09-19 16:09:38', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:09:38) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:09:38) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:09:38) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:09:38) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Strawberry Lemonade' AND "beverages".id <> 977661844) LIMIT 1[0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:09:38', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:03) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'New drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 16:10:03', NULL, '2009-09-19 16:10:03', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:03) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:10:03', NULL, '2009-09-19 16:10:03', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:10:03) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:10:03) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:10:03) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Strawberry Lemonade' AND "beverages".id <> 977661844) LIMIT 1[0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:10:03', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 4ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:12) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:10:12', NULL, '2009-09-19 16:10:12', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 6ms (DB: 2) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:12) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.5ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.4ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:13) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'New drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'New drink', '2009-09-19 16:10:13', NULL, '2009-09-19 16:10:13', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 5ms (DB: 4) | 302 Found [http://test.host/beverages?beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:13) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(NULL, 'Unique drink', '2009-09-19 16:10:13', NULL, '2009-09-19 16:10:13', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 2ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:10:13) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:10:13) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:10:13) [GET]
+  [4;35;1mBeverage Load (0.4ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:10:13) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Strawberry Lemonade' AND "beverages".id <> 977661844) LIMIT 1[0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:10:13', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 4ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mBeverage Load (1.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mBeverage Load (0.8ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.1ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:11:20) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "description"=>"Tasty"}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'New drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:11:20) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink"}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:11:20) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;36;1mBeverage Delete all (0.4ms)[0m   [0;1mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 5) | 302 Found [http://test.host/beverages/977661844]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:11:20) [GET]
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:11:20) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;36;1mBeverage Load (0.1ms)[0m   [0;1mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Strawberry Lemonade' AND "beverages".id <> 977661844) LIMIT 1[0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Update (0.3ms)[0m   [0;1mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:11:20', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 4ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:12:02) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "beverage_type"=>#<BeverageType id: 1763311396, name: "Mixed drink", created_at: "2009-09-19 16:12:02", updated_at: "2009-09-19 16:12:02", alcoholic: true>, "description"=>"Tasty"}}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'New drink') LIMIT 1[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(1763311396, 'New drink', '2009-09-19 16:12:02', NULL, '2009-09-19 16:12:02', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 9ms (DB: 3) | 302 Found [http://test.host/beverages?beverage%5Bbeverage_type%5D=1763311396&beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverageType Load (0.2ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:12:02) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink", "beverage_type"=>#<BeverageType id: 1763311396, name: "Mixed drink", created_at: "2009-09-19 16:12:02", updated_at: "2009-09-19 16:12:02", alcoholic: true>}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(1763311396, 'Unique drink', '2009-09-19 16:12:02', NULL, '2009-09-19 16:12:02', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bbeverage_type%5D=1763311396&beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:12:02) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink", "beverage_type"=>#<BeverageType id: 1763311396, name: "Mixed drink", created_at: "2009-09-19 16:12:02", updated_at: "2009-09-19 16:12:02", alcoholic: true>}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 2146154057) [0m
+  [4;35;1mBeverageType Load (0.3ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+  [4;36;1mBeverage Load (0.4ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 1636621572) [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1443652712) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverageType Load (0.2ms)[0m   [0mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:12:04) [POST]
+  Parameters: {"beverage"=>{"name"=>"New drink", "beverage_type"=>#<BeverageType id: 1763311396, name: "Mixed drink", created_at: "2009-09-19 16:12:04", updated_at: "2009-09-19 16:12:04", alcoholic: true>, "description"=>"Tasty"}}
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'New drink') LIMIT 1[0m
+  [4;35;1mBeverage Create (0.3ms)[0m   [0mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(1763311396, 'New drink', '2009-09-19 16:12:04', NULL, '2009-09-19 16:12:04', 'Tasty')[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 7ms (DB: 5) | 302 Found [http://test.host/beverages?beverage%5Bbeverage_type%5D=1763311396&beverage%5Bdescription%5D=Tasty&beverage%5Bname%5D=New+drink]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mBeverageType Load (0.2ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 1763311396) [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:12:04) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink", "beverage_type"=>#<BeverageType id: 1763311396, name: "Mixed drink", created_at: "2009-09-19 16:12:04", updated_at: "2009-09-19 16:12:04", alcoholic: true>}}
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+  [4;36;1mBeverage Create (0.3ms)[0m   [0;1mINSERT INTO "beverages" ("beverage_type_id", "name", "created_at", "carbonated", "updated_at", "description") VALUES(1763311396, 'Unique drink', '2009-09-19 16:12:04', NULL, '2009-09-19 16:12:04', NULL)[0m
+Redirected to http://test.host/beverages/2146154058
+Completed in 3ms (DB: 1) | 302 Found [http://test.host/beverages?beverage%5Bbeverage_type%5D=1763311396&beverage%5Bname%5D=Unique+drink]
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#create (for 0.0.0.0 at 2009-09-19 12:12:04) [POST]
+  Parameters: {"beverage"=>{"name"=>"Unique drink", "beverage_type"=>#<BeverageType id: 1763311396, name: "Mixed drink", created_at: "2009-09-19 16:12:04", updated_at: "2009-09-19 16:12:04", alcoholic: true>}}
+  [4;35;1mBeverage Load (0.2ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Unique drink') LIMIT 1[0m
+Redirected to http://test.host/beverages
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#destroy (for 0.0.0.0 at 2009-09-19 12:12:04) [DELETE]
+  Parameters: {"id"=>"977661844"}
+  [4;35;1mBeverage Delete all (0.3ms)[0m   [0mDELETE FROM "beverages" WHERE ("id" IN ('977661844')) [0m
+Redirected to http://test.host/beverages
+Completed in 1ms (DB: 1) | 302 Found [http://test.host/beverages/977661844]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+
+
+Processing BeveragesController#index (for 0.0.0.0 at 2009-09-19 12:12:04) [GET]
+  [4;35;1mBeverage Load (0.5ms)[0m   [0mSELECT * FROM "beverages" [0m
+Rendering beverages/index
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://test.host/beverages]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT count(*) AS count_all FROM "beverages" [0m
+  [4;35;1mBeverage Load (0.3ms)[0m   [0mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m
+
+
+Processing BeveragesController#update (for 0.0.0.0 at 2009-09-19 12:12:04) [PUT]
+  Parameters: {"beverage"=>{"name"=>"Strawberry Lemonade"}, "id"=>"977661844"}
+  [4;36;1mBeverage Load (0.3ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = '977661844') LIMIT 1[0m
+  [4;35;1mBeverage Load (0.1ms)[0m   [0mSELECT "beverages".id FROM "beverages" WHERE ("beverages"."name" = 'Strawberry Lemonade' AND "beverages".id <> 977661844) LIMIT 1[0m
+  [4;36;1mBeverageType Load (0.2ms)[0m   [0;1mSELECT * FROM "beverage_types" WHERE ("beverage_types"."id" = 256300588) [0m
+  [4;35;1mBeverage Update (0.3ms)[0m   [0mUPDATE "beverages" SET "updated_at" = '2009-09-19 16:12:04', "name" = 'Strawberry Lemonade' WHERE "id" = 977661844[0m
+Redirected to http://test.host/beverages/977661844
+Completed in 7ms (DB: 1) | 302 Found [http://test.host/beverages/977661844?beverage%5Bname%5D=Strawberry+Lemonade]
+  [4;36;1mBeverage Load (0.2ms)[0m   [0;1mSELECT * FROM "beverages" WHERE ("beverages"."id" = 977661844) [0m

@@ -1,0 +1,9 @@
+<h1>Beverage is: <%= current_beverage.name %></h1>
+
+<h3><%= display_sellable_message %></h3>
+
+<%= link_to 'Edit this', edit_beverage_path(current_beverage) %>
+<br/>
+<%= link_to 'Delete', current_beverage, :method => :destroy %>
+<br/>
+<%= link_to 'All', beverages_path %>
